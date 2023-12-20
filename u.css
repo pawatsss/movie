@@ -1,0 +1,88 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 16px;
+    padding: 12px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+/* styles.css */
+#submit {
+    width: 100%;
+    background-color: black;
+    padding: 13px;
+    color: white;
+}
+
+#List div{
+    padding: 70px;
+    position: relative;
+}
+
+#List div h2{
+    padding: 30px;
+    text-align: center;
+    position: absolute;
+    margin: 10% 30%;
+}
+
+#List div h5{
+    padding: 30px;
+    text-align: center;
+    position: absolute;
+    margin: 20% 30%;
+}
+
+#List div h3{
+    padding: 30px;
+    text-align: center;
+    position: absolute;
+    margin: 15% 30%;
+}
+
+#List div button{
+    padding: 15px 100px;
+    position: absolute;
+    margin: 17% 70%;
+    border: 0;
+    border-radius: 30px;
+}
+#List div img{
+    width: 30%;
+}
